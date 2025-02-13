@@ -8,7 +8,6 @@ I'm a frontend developer based in Taiwan. I enjoy coding and solve problems. I�
 ## 📊 My stats
 <div>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Moreene" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Moreene&layout=compact&langs_count=8&card_width=320" />
 </div><br>
 
 ## 📃 My blog
