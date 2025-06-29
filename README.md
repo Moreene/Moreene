@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm a frontend developer based in Taiwan. I enjoy coding and solve problems. I’m currently learning how to write tests using Vitest with Vue 3.<br><br>
+Frontend developer from Taiwan. Passionate about coding, problem-solving, and currently learning TypeScript.<br><br>
 
 ## 🧰 My toolbox
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,jquery,bootstrap,js,vue,vite,vuetify,pinia,nuxtjs,git,gitlab,github,npm,pnpm,vscode)](https://skillicons.dev)<br><br>
